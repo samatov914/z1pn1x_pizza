@@ -1,0 +1,6 @@
+venv/
+.env
+__pycache__/
+pizza1.jpg
+pizza2.jpg
+pizza3.jpg
